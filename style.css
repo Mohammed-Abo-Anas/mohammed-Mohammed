@@ -1,0 +1,21 @@
+h1 {
+  color: blou;
+}
+h2 {
+  color: green;
+}
+
+p {
+  font-family: arial;
+  color: white;
+  background-color: rgb(30, 80, 100);
+}
+div {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+  padding-left: 25%;
+  padding-right: 30%;
+  text-align: center;
+}
